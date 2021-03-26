@@ -7,9 +7,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-###This is an example of the website.
 Some topics we need to address:
 - Home
 - Values and Perspectives on Our Practice
@@ -18,7 +16,6 @@ Some topics we need to address:
 - Contact Information
 - Bio
 - Blog
-
 
 
 

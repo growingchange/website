@@ -4,7 +4,7 @@ Pages we need to create:
 - Values and Perspectives on Our Practice
 - Fees
 - Cancellation/ Late Policy
-- Contact Information
+- Contact Information (https://github.com/growingchange/website/blob/gh-pages/contact.html)
 - Bio
 - Blog
 

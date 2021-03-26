@@ -1,3 +1,14 @@
+
+This is an example of the website.
+Some topics we need to address:
+- Home
+- Values and Perspectives on Our Practice
+- Fees
+- Cancellation/ Late Policy
+- Contact Information
+- Bio
+- Blog
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/growingchange/website/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.

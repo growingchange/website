@@ -8,5 +8,5 @@
 - Bio
 - Blog
 
-## Land Acknowledgement
-Welcome! We are located on the ancestral homelands of Indigenous Peoples of Turtle Island. We are grateful to them to host us on their lands.
+## Land Acknowledgement 
+Welcome! We are located on the ancestral homelands of Indigenous Peoples of Turtle Island (https://native-land.ca/). We are grateful to them to host us on their lands.
